@@ -17,3 +17,6 @@
 ```markdown
 ~ $ git push
 ```
+
+- 파일 링크 복사후 생성할때
+- 바탕화면 git bash here 우클릭~$ git clone
